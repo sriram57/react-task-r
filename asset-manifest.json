@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-task-resume/static/css/main.99398287.chunk.css",
+    "main.js": "/react-task-resume/static/js/main.c60a9b7b.chunk.js",
+    "main.js.map": "/react-task-resume/static/js/main.c60a9b7b.chunk.js.map",
+    "runtime-main.js": "/react-task-resume/static/js/runtime-main.99e9148e.js",
+    "runtime-main.js.map": "/react-task-resume/static/js/runtime-main.99e9148e.js.map",
+    "static/js/2.d6caecaf.chunk.js": "/react-task-resume/static/js/2.d6caecaf.chunk.js",
+    "static/js/2.d6caecaf.chunk.js.map": "/react-task-resume/static/js/2.d6caecaf.chunk.js.map",
+    "index.html": "/react-task-resume/index.html",
+    "precache-manifest.0c3e8530e7e3d472df0824ac20bd2b1d.js": "/react-task-resume/precache-manifest.0c3e8530e7e3d472df0824ac20bd2b1d.js",
+    "service-worker.js": "/react-task-resume/service-worker.js",
+    "static/css/main.99398287.chunk.css.map": "/react-task-resume/static/css/main.99398287.chunk.css.map",
+    "static/js/2.d6caecaf.chunk.js.LICENSE.txt": "/react-task-resume/static/js/2.d6caecaf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-task-resume/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99e9148e.js",
+    "static/js/2.d6caecaf.chunk.js",
+    "static/css/main.99398287.chunk.css",
+    "static/js/main.c60a9b7b.chunk.js"
+  ]
+}
